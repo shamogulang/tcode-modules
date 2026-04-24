@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/qz-io/tcode-modules/pkg/common"
+	"github.com/shamogulang/tcode-modules/pkg/common"
 	"github.com/redis/go-redis/v9"
 	"github.com/rs/zerolog"
 )

@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/qz-io/tcode-modules/pkg/util"
+	"github.com/shamogulang/tcode-modules/pkg/util"
 )
 
 func GetVideoSize(v *VideoInfo) (int, int) {

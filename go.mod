@@ -1,4 +1,4 @@
-module github.com/qz-io/tcode-modules
+module github.com/shamogulang/tcode-modules
 
 go 1.23.2
 

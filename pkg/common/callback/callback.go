@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/qz-io/tcode-modules/pkg/model"
+	"github.com/shamogulang/tcode-modules/pkg/model"
 )
 
 type TsDesc struct {

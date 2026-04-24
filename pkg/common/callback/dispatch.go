@@ -8,7 +8,7 @@ import (
 
 	"embed"
 
-	"github.com/qz-io/tcode-modules/pkg/common"
+	"github.com/shamogulang/tcode-modules/pkg/common"
 )
 
 //go:embed all:zso/d
